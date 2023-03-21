@@ -1,5 +1,3 @@
-You are required to program in Python (only) the following environment and algorithms:
-
 -->Environment:  
     - k stochastic bandits
     - Each bandit i has a reward that is uniformly distributed in [a_i, b_i].
@@ -15,8 +13,7 @@ You are required to program in Python (only) the following environment and algor
     2. Compare the convergence/learning speed of the two algorithms for T = 1000, k = 10
     3. Repeat  (2) for another two scenarios with different T,k values and comment on the differences similarities.
 
-You need to hand in (online):
-
+Hand in:
     1. Your python notebook of the code
        this must execute correctly, producing also the respective plots above
        and it must be commented in detail (follow the example notebook I uploaded) 
